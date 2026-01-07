@@ -1,0 +1,32 @@
+# Data
+emails.csv
+data_enron_original/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Environment files / secrets
+.env
+
+# Build / packaging
+dist/
+build/
+*.egg-info/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+.ipynb_checkpoints/
+
+# Misc
+*.log
+.streamlit/
+.pytest_cache/
